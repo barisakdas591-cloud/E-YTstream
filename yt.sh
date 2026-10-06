@@ -3,12 +3,11 @@
 VBR="1500k"
 FPS="24"
 QUAL="superfast"
-
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"
-KEY="YOUR API KEY HERE"
+KEY="x3ad-9s25-g7v6-7pc4-a98y"
 
-VIDEO_SOURCE="/home/ubuntu/pixel-jeff-mario.gif"
-AUDIO_SOURCE="/home/ubuntu/input.txt"
+VIDEO_SOURCE="./pixel-jeff-mario.gif"
+AUDIO_SOURCE="./input.txt"
 
 # Initialize the playlist position to 1
 playlist_position=1
